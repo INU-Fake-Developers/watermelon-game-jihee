@@ -7,5 +7,7 @@
 **사진 편집 을 위한 편집**: https://www.photopea.com/  
 **배포**: https://www.netlify.com/ (예정)  
 
+링크: watermelon-game-gammaeng-e.netlify.app
+
 
 *__Hello__* World!
